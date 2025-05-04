@@ -2,7 +2,7 @@
 # 👋 Hi, I’m Fawwaz Haiqal
 
 🎓 2nd Year Computer Science student passionate about  
-🚀 Full-stack development, 🤖 Artificial Intelligence, and 🤖 Robotics.
+🚀 Full-stack development (Mobile App, Web App, Website, Software), 🤖 Artificial Intelligence,.
 
 Currently building things that mix **logic and creativity** — from startup-level apps to AI-integrated solutions.
 
@@ -30,10 +30,13 @@ Worked in a 6-person team to deliver an interactive quiz system.
 
 ---
 
-### 🤖 ROS2 Robot (AI & Robotics Project)
-- Implemented **KNN classifier** for real-time robot decision-making  
-- Used **PCA** for dimensionality reduction in perception module  
-- Developed custom navigation and behavior logic
+### 🤖 AI Learning
+- Implemented **KNN classifier** for MNIST dataset
+- Used **PCA** for dimensionality reduction to reduce the computational cost
+
+### Java, Ruby based Website
+- Using Ruby and Sinatra for a prose- reading website
+- Java and Springboot backend for an easier integration for a brass band management website
 
 ---
 
